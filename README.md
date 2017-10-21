@@ -15,7 +15,7 @@ light.showAnimation(LightAnimation.HalloweenBlue, 500)
 
 ## Supported targets
 
-* for PXT/adafruit
+* for PXT/codal
 
 ## License
 
