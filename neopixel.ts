@@ -160,11 +160,11 @@ namespace LightAnimation {
     
     //% blockImage=1s
     //% block="halloween blue"
-    export const HalloweenBlue = new light.FadeInOutAnimation(0xFFFFFF, 30)
+    export const HalloweenBlue = new light.FadeInOutAnimation(0x0000FF, 50)
     
     //% blockImage=1s
     //% block="halloween green"
-    export const HalloweenGreen = new light.FadeOutAnimation(0xFF4500, 5)
+    export const HalloweenGreen = new light.FadeOutAnimation(0x00FF00, 5)
 
     //% blockImage=1s
     //% block="halloween purple"
