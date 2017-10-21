@@ -1,8 +1,8 @@
 
 {
-    "name": "halloween",
+    "name": "halloween animations",
     "version": "0.0.1",
-    "description": "AdaFruit Halloween animations",
+    "description": "Halloween animations for the Circuit Playground Express",
     "license": "MIT",
     "dependencies": {
         "core": "*",
