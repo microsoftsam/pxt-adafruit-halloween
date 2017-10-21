@@ -11,16 +11,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100"
-   height="100"
-   viewBox="0 0 99.999995 99.999995"
+   width="288"
+   height="192"
+   viewBox="0 0 287.99999 191.99999"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="iconsvg.svg"
-   inkscape:export-filename="/Users/sammysam/Work/pxt-adafruit/sim/public/blocks/lightanimation/halloweenfade.png"
-   inkscape:export-xdpi="100"
-   inkscape:export-ydpi="100">
+   inkscape:export-filename="/Users/sammysam/Work/pxt-adafruit-halloween/icon.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -139,8 +139,8 @@
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 49.999997 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="99.999995 : 49.999997 : 1"
-       inkscape:persp3d-origin="49.999997 : 33.333332 : 1"
+       inkscape:vp_z="99.999997 : 49.999997 : 1"
+       inkscape:persp3d-origin="49.999998 : 33.333332 : 1"
        id="perspective5694" />
     <linearGradient
        id="linearGradient4177"
@@ -242,15 +242,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="47.861948"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="137.74903"
      inkscape:cy="41.836703"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1052"
-     inkscape:window-height="932"
-     inkscape:window-x="49"
+     inkscape:window-width="1360"
+     inkscape:window-height="933"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="px"
@@ -271,7 +271,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-952.36221)">
+     transform="translate(0,-860.36221)">
     <use
        x="0"
        y="0"
@@ -284,7 +284,7 @@
        height="100%" />
     <g
        id="g4166"
-       transform="matrix(2.0181083,0,0,2.0181083,-66.489096,-980.45208)">
+       transform="matrix(4.7687243,0,0,4.7687243,-134.68733,-3732.6604)">
       <g
          id="g4174"
          transform="matrix(0.4096,0,0,0.4096,91.274575,573.38078)">
