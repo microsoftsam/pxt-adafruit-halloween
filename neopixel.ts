@@ -131,7 +131,7 @@ namespace LightAnimation {
     export const Halloween = new light.HalloweenAnimation(0xFF4500, 100)
     
     //% blockImage=1s
-    //% block="color cycle"
+    //% block="halloween spooky"
     export const HalloweenColorCycle = new light.ColorCycleAnimation([0xFF0000, 0xFF4500], 100)
     
     //% blockImage=1s
