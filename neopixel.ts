@@ -127,22 +127,22 @@ namespace light {
 
 namespace LightAnimation {
     //% blockImage=1s
-    //% block="rainbow "
+    //% block="halloween"
     export const Halloween = new light.HalloweenAnimation(0xFF4500, 100)
     
     //% blockImage=1s
-    //% block="rainbow "
+    //% block="color cycle"
     export const HalloweenColorCycle = new light.ColorCycleAnimation([0xFF0000, 0xFF4500], 100)
     
     //% blockImage=1s
-    //% block="rainbow "
+    //% block="fire"
     export const HalloweenFire = new light.HalloweenFireAnimation(0xFF0000, 50)
     
     //% blockImage=1s
-    //% block="rainbow "
+    //% block="ghost"
     export const HalloweenGhost = new light.HalloweenFadeAnimation(0xFFFFFF, 30)
     
     //% blockImage=1s
-    //% block="rainbow "
+    //% block="fire fade"
     export const HalloweenFireFade = new light.HalloweenFadeAnimation(0xFF4500, 5)
 }
