@@ -1,0 +1,16 @@
+
+{
+    "name": "halloween",
+    "version": "0.0.1",
+    "description": "AdaFruit Halloween animations",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "light": "*"
+    },
+    "files": [
+        "README.md",
+        "neopixel.ts"
+    ],
+    "public": true
+}
